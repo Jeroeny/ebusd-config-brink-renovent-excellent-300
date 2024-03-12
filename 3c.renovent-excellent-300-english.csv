@@ -1,5 +1,5 @@
 # type (r[1-9];w;u),circuit,name,[comment],[QQ],ZZ,PBSB,[ID],field1,part (m/s),datatypes/templates,divider/values,unit,comment,field2,part (m/s),datatypes/templates ,divider/values,unit,comment,field3,part (m/s),datatypes/templates,divider/values,unit,comment,field4,part (m/s),datatypes/templates,divider/values,unit,comment,field5,part (m/s),datatypes/templates,divider/values,unit,comment
-r1,,AirFlowLevel0,,,,4050,21,current,,UIR,,m³/h,,minimum,,UIR,,m³/h,,maximum,,UIR,,m³/h,,StepSize,,UIR,,m³/h,,FactorySetting,,UIR,,m³/h
+r1,,AirFlowLevel0,,,,4050,21,current,,UIR,,m³/h,,minimum,,UIR,,m³/h,,maximum,,UIR,,m³/h,,StepSize,,UIR,,m³/h,,FactorySetting,,UIR,,m³/h,
 r1,,AirFlowLevel1,,,,4050,01,current,,UIR,,m³/h,,minimum,,UIR,,m³/h,,maximum,,UIR,,m³/h,,StepSize,,UIR,,m³/h,,FactorySetting,,UIR,,m³/h
 r1,,AirFlowLevel2,,,,4050,02,current,,UIR,,m³/h,,minimum,,UIR,,m³/h,,maximum,,UIR,,m³/h,,StepSize,,UIR,,m³/h,,FactorySetting,,UIR,,m³/h
 r1,,AirFlowLevel3,,,,4050,03,current,,UIR,,m³/h,,minimum,,UIR,,m³/h,,maximum,,UIR,,m³/h,,StepSize,,UIR,,m³/h,,FactorySetting,,UIR,,m³/h
