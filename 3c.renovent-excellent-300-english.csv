@@ -1,12 +1,4 @@
 # type (r[1-9];w;u),circuit,name,[comment],[QQ],ZZ,PBSB,[ID],field1,part (m/s),datatypes/templates,divider/values,unit,comment,field2,part (m/s),datatypes/templates ,divider/values,unit,comment,field3,part (m/s),datatypes/templates,divider/values,unit,comment,field4,part (m/s),datatypes/templates,divider/values,unit,comment,field5,part (m/s),datatypes/templates,divider/values,unit,comment
-### BRINK RENOVENT EXCELLENT 300 & 400 (plus)
-##
-## This ebus config may work for Ubbink, VisionAIR, WOLF CWL series and some other systems that are identical
-## You may need to modify the 7c address in the next 2 lines for your brand/model. Or just uncomment the necessary lines.
-
-## Renovent Excellent 400 (plus) series
-## *r,kwl,,,,7c,4050,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-## *w,kwl,,,,7c,4050,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 ## Renovent Excellent 300 series
 *r,kwl,,,,3c,4050,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
